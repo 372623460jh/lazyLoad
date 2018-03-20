@@ -4,7 +4,7 @@
 
 ## 地址链接
 
-- 源码所在位置：https://github.com/372623460jh/lazyLoad/tree/master/dist
+- 源码所在位置：https://github.com/372623460jh/lazeLoad/tree/master/dist
 
 - dev链接：http://libs.ijianghe.cn/js/lazyLoad/lazyLoad.js
 
