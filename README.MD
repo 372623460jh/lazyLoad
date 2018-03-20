@@ -10,7 +10,7 @@
 
 - pro链接：http://libs.ijianghe.cn/js/lazyLoad/lazyLoad.min.js
 
-- demo：https://github.com/372623460jh/lazyLoad/tree/master/examples/test/test.html
+- demo：https://github.com/372623460jh/lazeLoad/blob/master/examples/test/test.html
 
 ## 原理
 
